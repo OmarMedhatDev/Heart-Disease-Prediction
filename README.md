@@ -49,7 +49,7 @@ The dataset contains 4238 entries and 16 features:
 
 ## Plots
 ### Correlation of Features with TenYearCHD
-![Correlation Plot](path_to_correlation_plot.png)
+![Correlation Plot](images/correlation_plot.png)
 
 ### Distribution of Key Features
 ![Feature Distribution](path_to_feature_distribution_plot.png)
