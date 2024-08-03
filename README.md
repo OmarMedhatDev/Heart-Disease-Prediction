@@ -52,10 +52,10 @@ The dataset contains 4238 entries and 16 features:
 ![Correlation Plot](images/correlation_plot.png)
 
 ### Distribution of Key Features
-![Feature Distribution](path_to_feature_distribution_plot.png)
+![Feature Distribution](images/feature_distribution_plot.png)
 
 ### ROC Curve
-![ROC Curve](path_to_roc_curve_plot.png)
+![ROC Curve](images/roc_curve_plot.png)
 
 ## Future Work
 - Experiment with other classification algorithms.
